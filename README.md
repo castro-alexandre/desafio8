@@ -1,6 +1,6 @@
 ## Descrição
 
-Utilizei o projeto POO2 e adicionei os diferenetes descontos.
+Utilizei o projeto POO2 e adicionei os diferentes descontos.
 
 ## Getting Started
 
